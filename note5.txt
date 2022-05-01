@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+note6 NhatMinh
+=======
 note6 QuynhAnh
+>>>>>>> 8547310e5673dfb82192d8e11bdba959174fc27a
